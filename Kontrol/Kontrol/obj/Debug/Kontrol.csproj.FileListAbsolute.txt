@@ -1,0 +1,7 @@
+C:\University\2 курс\3 сем\OOTP\Задания\Kontrol\Kontrol\bin\Debug\Kontrol.exe.config
+C:\University\2 курс\3 сем\OOTP\Задания\Kontrol\Kontrol\bin\Debug\Kontrol.exe
+C:\University\2 курс\3 сем\OOTP\Задания\Kontrol\Kontrol\bin\Debug\Kontrol.pdb
+C:\University\2 курс\3 сем\OOTP\Задания\Kontrol\Kontrol\obj\Debug\Kontrol.csprojAssemblyReference.cache
+C:\University\2 курс\3 сем\OOTP\Задания\Kontrol\Kontrol\obj\Debug\Kontrol.csproj.CoreCompileInputs.cache
+C:\University\2 курс\3 сем\OOTP\Задания\Kontrol\Kontrol\obj\Debug\Kontrol.exe
+C:\University\2 курс\3 сем\OOTP\Задания\Kontrol\Kontrol\obj\Debug\Kontrol.pdb
